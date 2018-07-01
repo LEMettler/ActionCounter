@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ActionCounter</string>
+    <string name="menu_item_0">Reset</string>
+
+    <string name="menu_item_1">Theme</string>
+    <string name="action_counter">Action Counter</string>
+
+
+    <string-array name="theme_items">
+        <item>Light</item>
+        <item>Dark</item>
+    </string-array>
+</resources>
